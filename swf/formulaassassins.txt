@@ -1,0 +1,41 @@
+*******************
+ FORMULA ASSASSINS
+*******************
+
+--------
+ENGLISH:
+--------
+Your car has some technical problems.
+The accelerator and the brake no longer respond to your commands.
+To complete the race you can only use the steering wheel, your skills and your brand new sniper rifle.
+Z to turn right and X to turn left.
+MOUSE CLICK to shoot the enemies.
+Good luck, assassin!
+Tips & help: info (at) video-giochi.org
+
+HOW TO PLAY:
+MOUSE= fire
+Z= turn right
+X= turn left
+
+---------
+ITALIANO:
+---------
+La tua monoposto ha dei problemi tecnici.
+L'acceleratore e il freno non rispondono più ai comandi.
+Per completare la gara potrai fare affidamento sul volante, sulla tua abilità e sul tuo fucile da cecchino nuovo di zecca.
+Z gira a sinistra e X per girare a destra.
+Clic del mouse per sparare ai nemici.
+Buona fortuna, assassino!
+Consigli e aiuto: info (at) video giochi.org
+
+COME GIOCARE:
+MOUSE= fuoco
+Z= gira a sinistra
+X= gira a destra
+
+A new game by http://www.video-giochi.org
+Developed on January 2014
+
+KEYWORDS:
+f1, formula 1, race, sniper, fun, rifle, grand prix, arcade, english, http://www.video-giochi.org
